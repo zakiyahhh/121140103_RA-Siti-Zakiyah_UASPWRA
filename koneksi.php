@@ -1,9 +1,9 @@
 <?php
 
 $sname= "localhost";
-$uname= "root";
-$password= "";
-$db_name= "uaspemweb";
+$uname= "id21685494_databasesql";
+$password= "Databasesql13_";
+$db_name= "id21685494_databasesql";
 
 $conn = mysqli_connect($sname, $uname, $password, $db_name);
 
